@@ -1,5 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/teobucci/Time-Series-Classification?logo=github)
-
 # Time Series Classification
 
 This project was developed for the course of **Artificial Neural Networks and Deep Learning** for the MSc. in Mathematical Engineering at Politecnico di Milano, A.Y. 2022/2023.
